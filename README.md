@@ -2,7 +2,7 @@
 
 ## Repository Structure
 
-    |-- code (run in this order; code separated out by topic)  
+    |-- code (run in this order; code separated out by process)  
       |-- import.R              # loads packages, imports dta and xlsx files
       |-- supervision.R         # cleans and aggregates supervision files 
       |-- medical.R             # cleans and aggregates medical files 
